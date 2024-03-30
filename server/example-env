@@ -1,0 +1,9 @@
+JWT_SECRET=g4dv7egh4tnif89fud87890kr3r7f9d9fdfd9f0dof-sd-sd9s0d8s9d89s7vd79vd9vd9
+
+DB_HOST='localhost'
+DB_PORT=5432
+DB_USERNAME='test'
+DB_PASSWORD='test'
+DB_NAME='test'
+TYPEORM_MIGRATIONS='dist/migrations/*.js'
+TYPEORM_SYNHRONIZE='true'
